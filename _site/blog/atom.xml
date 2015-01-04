@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Daniel Xu's Blog</title>
+    <link href="http://dhhxu.github.io/blog/atom.xml" rel="self"/>
+    <link href="http://dhhxu.github.io/blog"/>
+    <updated>2015-01-04T12:40:28-08:00</updated>
+    <id>http://dhhxu.github.io/blog</id>
+    <author>
+        <name>Daniel Xu</name>
+        <email>daniel_xu@berkeley.edu</email>
+    </author>
+
+    
+        <entry>
+            <title>Hello World!</title>
+            <link href="http://dhhxu.github.io/blog/2015/01/04/hello-world"/>
+            <updated>2015-01-04T00:00:00-08:00</updated>
+            <id>http://dhhxu.github.io//blog/2015/01/04/hello-world</id>
+            <content type="html">&lt;p&gt;Starting to build website. Uses Jekyll.&lt;/p&gt;
+</content>
+        </entry>
+    
+</feed>
+
